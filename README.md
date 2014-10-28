@@ -6,5 +6,5 @@
 
 # Running
 
-    ruby generate_stats.rb
+    bundle exec ruby generate_stats.rb
 
